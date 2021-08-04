@@ -60,5 +60,7 @@ Here are some ideas to get you started:
 
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aviksaikat&theme=neon-palenight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=G-code,Roff,Tcl&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aviksaikat&theme=neon-palenight)](https://git.io/streak-stats) 
 
