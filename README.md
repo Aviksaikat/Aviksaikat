@@ -1,7 +1,13 @@
-### Hi there, I'm Saikat 👋
+## Hi there, I'm Saikat 👋
 
 [![Twitter](https://img.shields.io/badge/@Avik_Saikat-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Aviksaikat&screen_name=Avik_Saikat)
 
+- 🔭 I’m currently working on Bug Bounties, Tryhackme, Hackthebox
+- 🌱 I’m currently learning Web App Pentesting
+- 🤔 I’m looking for help with "Anything related to cybersecurity"
+- 💬 Ask me about anything you like
+- 📫 How to reach me: Check Below
+- ⚡ Fun fact: No idea if someones gonna read the aboves
 
 <!--
 Here are some ideas to get you started:
@@ -17,9 +23,7 @@ Here are some ideas to get you started:
 -->
 ![Saikat's GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&theme=algolia)
 
-
-
-### Connect with me:
+### Connect with me
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviksaikat)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Aviksaikat)
@@ -30,7 +34,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Languages And Technologies:
+### Languages And Technologies
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -47,11 +52,13 @@ Here are some ideas to get you started:
 
 </br>
 
-#### Databases:
+#### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Operating Systems:
+### Operating Systems
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -60,7 +67,7 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=G-code,Roff,Tcl&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=G-code,Roff,Tcl,ASP.NET&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aviksaikat&theme=neon-palenight)](https://git.io/streak-stats) 
 
