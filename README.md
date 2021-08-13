@@ -1,6 +1,7 @@
 ## Hi there, I'm Saikat 👋
 
 [![Twitter](https://img.shields.io/badge/@Avik_Saikat-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Aviksaikat&screen_name=Avik_Saikat)
+<img src="https://tryhackme-badges.s3.amazonaws.com/aviksaikat.png" alt="TryHackMe">
 
 - 🔭 I’m currently working on Bug Bounties, Tryhackme, Hackthebox
 - 🌱 I’m currently learning Web App Pentesting
