@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with "Anything related to cybersecurity"
 - 💬 Ask me about anything you like
 - 📫 How to reach me: Check Below
-- ⚡ Fun fact: No idea if someones gonna read the aboves
+- ⚡ Fun fact: No idea if someones gonna read the above
 
 <!--
 Here are some ideas to get you started:
