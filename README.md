@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 -->
 ![Saikat's GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&theme=algolia)
 
-<!-- metrics -->
-![GitHub metrics](https://metrics.lecoq.io/aviksaikat) 
-
 
 ### Connect with me
 
@@ -93,3 +90,7 @@ Here are some ideas to get you started:
 
 <!-- trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=aviksaikat)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!-- metrics -->
+![GitHub metrics](https://metrics.lecoq.io/aviksaikat) 
