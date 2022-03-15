@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/aviksaikat) 
 
 - 🔭 I’m currently working on Bug Bounties, Tryhackme, Hackthebox
-- 🌱 I’m currently learning Web App Pentesting
+- 🌱 I’m currently learning Web App Pentesting, Smart Contracts Pentesting
 - 🤔 I’m looking for help with "Anything related to cybersecurity"
 - 💬 Ask me about anything you like
 - 📫 How to reach me: Check Below
