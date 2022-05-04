@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Saikat's GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Saikat's GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
 
 
 ### Connect with me
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 </br>
 
 <!-- Languages -->
-[![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=Smali,G-code,Roff,Tcl,ASP.NET&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=Smali,G-code,Roff,Tcl,ASP.NET,CSS,SCSS&langs_count=6&)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviksaikat&hide=Smali,G-code,Roff,Tcl,ASP.NET&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 
 <!-- trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=aviksaikat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aviksaikat&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- metrics -->
