@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with "Anything related to cybersecurity"
 - 💬 Ask me about anything you like
 - 📫 How to reach me: Check Below
-- ⚡ Fun fact: No idea if someones gonna read the above
+<!-- - ⚡ Fun fact: No idea if someones gonna read the above -->
 
 
 
@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=red)
+![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
