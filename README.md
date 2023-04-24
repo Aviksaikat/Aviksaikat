@@ -150,16 +150,12 @@ Here are some ideas to get you started:
 ---
 
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Create-Tweet&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Create-Tweet)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Blockchain-CTF-Solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Blockchain-CTF-Solutions)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=VHS-Themes-preview&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/VHS-Themes-preview)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Neofetch-Themes&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Neofetch-Themes)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Youtube-Uploader-Bot&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Youtube-Uploader-Bot)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Discord-Notification-bot&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Discord-Notification-bot)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=linux-kde-setup&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/linux-kde-setup)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Ethernaut-brownie-Solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Ethernaut-brownie-Solutions)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Wireless-Driver-Fixer&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Wireless-Driver-Fixer)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=eJPT&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/eJPT)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Quillctf-solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Quillctf-solutions)
 
