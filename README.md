@@ -1,7 +1,7 @@
-## Hi there, I'm Saikat 👋
+## Hi there, I"m Saikat 👋
 
 [![Twitter](https://img.shields.io/badge/@Avik_Saikat-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Aviksaikat&screen_name=Avik_Saikat)
-![Profile views](https://gpvc.arturio.dev/aviksaikat) 
+![Profile views](https://gpvc.arturio.dev/aviksaikat)
 
 - 🔭 I’m currently working on Bug Bounties, Tryhackme, Hackthebox
 - 🌱 I’m currently learning Web App Pentesting, Smart Contracts Pentesting
@@ -9,8 +9,6 @@
 - 💬 Ask me about anything you like
 - 📫 How to reach me: Check Below
 <!-- - ⚡ Fun fact: No idea if someones gonna read the above -->
-
-
 
 <!--
 Here are some ideas to get you started:
@@ -24,11 +22,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Saikat's GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
 
+<!-- [![user:9805823's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9805823?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile) -->
+
+<!-- <script src="https://tryhackme.com/badge/132304"></script> -->
+
+<p>
+    <a href="https://tryhackme.com/p/aviksaikat" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/aviksaikat.png" alt="TryHackMe" height=60 width=250/>
+    <a href="https://www.hackthebox.com/profile/361208" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/361208" alt="Hackthebox" height=60 width=250/>
+</p>
+
+---
+
+![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
+
+---
 
 ### Connect with me
 
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](avik_saikat007@proton.me)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviksaikat)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Aviksaikat)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-karmakar-0ab183154/)
@@ -36,7 +48,7 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@babayaga_the_boogy_man)
 [![He](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saikickkarma)
 
-
+---
 
 </br>
 
@@ -60,8 +72,14 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=red)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 </br>
+
+---
 
 #### Databases
 
@@ -69,6 +87,7 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+---
 
 ### Operating Systems
 
@@ -80,24 +99,32 @@ Here are some ideas to get you started:
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-</br>
+---
+
+### Hire me
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/aviksaikat)
+
+---
 
 <!-- Languages -->
+
 [![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=Smali,G-code,Roff,Tcl,ASP.NET,CSS,SCSS&langs_count=6&)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviksaikat&hide=Smali,G-code,Roff,Tcl,ASP.NET&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aviksaikat&theme=neon-palenight)](https://git.io/streak-stats) 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aviksaikat&theme=neon-palenight)](https://git.io/streak-stats)
 
-<!-- activity graph -->
+## <!-- activity graph -->
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aviksaikat)
 
+## <!-- trophies -->
 
-<!-- trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=aviksaikat&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+## <!-- metrics -->
 
-<!-- metrics -->
-![GitHub metrics](https://metrics.lecoq.io/aviksaikat) 
+![GitHub metrics](https://metrics.lecoq.io/aviksaikat)
