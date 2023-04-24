@@ -25,6 +25,25 @@ Here are some ideas to get you started:
 
 <!-- [![user:9805823's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9805823?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile) -->
 
+---
+
+<!-- ![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) -->
+
+<!-- ![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&theme=tokyonight&card_width=500px&custom_title=Aviksaikat's%20Github%20Stats&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aviksaikat&theme=one-dark-pro&hide_border=true&mode=weekly&card_width=500)](https://git.io/streak-stats) -->
+
+<img src="./assets/github.png" height=25/> GitHub Analytics
+
+<p align="center">
+    <a href="https://github.com/Aviksaikat">
+    <br />
+    <img  height="200em" width="49%" src="https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&theme=tokyonight&card_width=500px&custom_title=Aviksaikat's%20Github%20Stats&count_private=true" alt="Aviksaikat" />
+    <img  height="200em" width="49%" src="https://streak-stats.demolab.com?user=Aviksaikat&theme=one-dark-pro&hide_border=true&mode=weekly&card_width=500" alt="Aviksaikat" />
+    </a>
+</p>
+
+---
+
 <!-- <script src="https://tryhackme.com/badge/132304"></script> -->
 
 #
@@ -96,15 +115,6 @@ Here are some ideas to get you started:
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/aviksaikat)
 
----
-
-<!-- ![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) -->
-
-![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&theme=tokyonight&card_width=500px&custom_title=Aviksaikat's%20Github%20Stats&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aviksaikat&theme=one-dark-pro&hide_border=true&mode=weekly&card_width=500)](https://git.io/streak-stats)
-
----
-
 <!-- Languages -->
 
 [![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=Smali,G-code,Roff,Tcl,ASP.NET,CSS,SCSS&langs_count=6&)](https://github.com/anuraghazra/github-readme-stats)
@@ -127,7 +137,7 @@ Here are some ideas to get you started:
 
 ![GitHub metrics](https://metrics.lecoq.io/aviksaikat)
 
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether&card_width=150)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether&card_width=150)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether)
 
 <!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
