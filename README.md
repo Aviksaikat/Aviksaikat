@@ -32,13 +32,7 @@ Here are some ideas to get you started:
 <a href="https://tryhackme.com/p/aviksaikat" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/aviksaikat.png" alt="TryHackMe" height=60 width=250/>
 <a href="https://www.hackthebox.com/profile/361208" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/361208" alt="Hackthebox" height=60 width=250/>
 
----
-
-![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
-
----
-
-### Connect with me
+### Socials
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](avik_saikat007@proton.me)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviksaikat)
@@ -46,11 +40,10 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-karmakar-0ab183154/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](avik_shelby#8604)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@babayaga_the_boogy_man)
+[![TryHackme](https://img.shields.io/badge/TryHackme-%232C3454.svg?style=for-the-badge&logo=TryHackme&logoColor=red)](https://tryhackme.com/p/aviksaikat)
 [![He](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saikickkarma)
 
 ---
-
-</br>
 
 ### Languages And Technologies
 
@@ -76,8 +69,6 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-</br>
 
 ---
 
@@ -107,6 +98,13 @@ Here are some ideas to get you started:
 
 ---
 
+<!-- ![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) -->
+
+![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&theme=tokyonight&card_width=500px&custom_title=Aviksaikat's%20Github%20Stats&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aviksaikat&theme=one-dark-pro&hide_border=true&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
+---
+
 <!-- Languages -->
 
 [![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=Smali,G-code,Roff,Tcl,ASP.NET,CSS,SCSS&langs_count=6&)](https://github.com/anuraghazra/github-readme-stats)
@@ -114,8 +112,8 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviksaikat&hide=Smali,G-code,Roff,Tcl,ASP.NET&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- streak -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aviksaikat&theme=neon-palenight)](https://git.io/streak-stats)
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aviksaikat&theme=neon-palenight)](https://git.io/streak-stats) -->
 
 ## <!-- activity graph -->
 
@@ -128,3 +126,8 @@ Here are some ideas to get you started:
 ## <!-- metrics -->
 
 ![GitHub metrics](https://metrics.lecoq.io/aviksaikat)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether&card_width=150)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether&card_width=150)
+
+<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
