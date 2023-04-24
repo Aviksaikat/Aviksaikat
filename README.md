@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 <!-- ![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&theme=tokyonight&card_width=500px&custom_title=Aviksaikat's%20Github%20Stats&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aviksaikat&theme=one-dark-pro&hide_border=true&mode=weekly&card_width=500)](https://git.io/streak-stats) -->
 
-<img src="./media/github.png" height=25/> GitHub Analytics
+## <img src="./media/github.png" height=25/> GitHub Analytics
 
 <p align="center">
     <a href="https://github.com/Aviksaikat">
-    <img  height="180em" width="49%" src="https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&theme=tokyonight&card_width=500px&custom_title=Aviksaikat's%20Github%20Stats&count_private=true" alt="Aviksaikat" />
-    <img  height="180em" width="49%" src="https://streak-stats.demolab.com?user=Aviksaikat&theme=one-dark-pro&hide_border=true&mode=weekly&card_width=500" alt="Aviksaikat"/>
+    <img  height="180em" width="49%" src="https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&theme=tokyonight&custom_title=Aviksaikat's%20Github%20Stats&count_private=true" alt="Aviksaikat" />
+    <img  height="180em" width="49%" src="https://streak-stats.demolab.com?user=Aviksaikat&theme=one-dark-pro&hide_border=true&mode=weekly" alt="Aviksaikat"/>
     </a>
 </p>
 
