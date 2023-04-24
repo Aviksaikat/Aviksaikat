@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <!-- <script src="https://tryhackme.com/badge/132304"></script> -->
 
-<p>
+#
+
 <a href="https://tryhackme.com/p/aviksaikat" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/aviksaikat.png" alt="TryHackMe" height=60 width=250/>
 <a href="https://www.hackthebox.com/profile/361208" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/361208" alt="Hackthebox" height=60 width=250/>
-</p>
 
 ---
 
