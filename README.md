@@ -1,6 +1,10 @@
 ## Hi there, I"m Saikat 👋
 
 [![Twitter](https://img.shields.io/badge/@Avik_Saikat-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Aviksaikat&screen_name=Avik_Saikat)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](avik_saikat007@proton.me)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-karmakar-0ab183154/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](avik_shelby#8604)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@babayaga_the_boogy_man)
 ![Profile views](https://gpvc.arturio.dev/aviksaikat)
 
 - 🔭 I’m currently working on Bug Bounties, Tryhackme, Hackthebox
@@ -30,6 +34,7 @@ Here are some ideas to get you started:
 <!-- ![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) -->
 
 <!-- ![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&theme=tokyonight&card_width=500px&custom_title=Aviksaikat's%20Github%20Stats&count_private=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aviksaikat&theme=one-dark-pro&hide_border=true&mode=weekly&card_width=500)](https://git.io/streak-stats) -->
 
 ## <img src="./media/github.png" height=25/> GitHub Analytics
@@ -50,12 +55,8 @@ Here are some ideas to get you started:
 
 ### Socials
 
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](avik_saikat007@proton.me)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviksaikat)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Aviksaikat)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-karmakar-0ab183154/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](avik_shelby#8604)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@babayaga_the_boogy_man)
 [![TryHackme](https://img.shields.io/badge/TryHackme-%232C3454.svg?style=for-the-badge&logo=TryHackme&logoColor=red)](https://tryhackme.com/p/aviksaikat)
 [![He](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saikickkarma)
 
@@ -88,7 +89,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -112,11 +113,21 @@ Here are some ideas to get you started:
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/aviksaikat)
 
+---
+
 <!-- Languages -->
 
-[![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=Smali,G-code,Roff,Tcl,ASP.NET,CSS,SCSS&langs_count=6&)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=php,Smali,G-code,Roff,Tcl,ASP.NET,CSS,SCSS&langs_count=8)](https://github.com/aviksaikat/github-readme-stats) -->
+
+<div style="width: 100%;">
+  <a href="https://github.com/aviksaikat/github-readme-stats">
+    <img height="200px" width="100%" align="center" src="https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=php,Smali,G-code,Roff,Tcl,ASP.NET,CSS,SCSS&langs_count=8" />
+  </a>
+</div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviksaikat&hide=Smali,G-code,Roff,Tcl,ASP.NET&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
+
+---
 
 <!-- streak -->
 <!--
@@ -126,15 +137,43 @@ Here are some ideas to get you started:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aviksaikat)
 
-## <!-- trophies -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aviksaikat&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## <!-- metrics -->
 
 ![GitHub metrics](https://metrics.lecoq.io/aviksaikat)
 
+---
+
+## <!-- trophies -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aviksaikat&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether)
 
-<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
+<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Aviksaikat&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Create-Tweet&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Create-Tweet)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Blockchain-CTF-Solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Blockchain-CTF-Solutions)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=VHS-Themes-preview&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/VHS-Themes-preview)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Neofetch-Themes&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Neofetch-Themes)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Quillctf-solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Quillctf-solutions)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Youtube-Uploader-Bot&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Youtube-Uploader-Bot)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Discord-Notification-bot&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Discord-Notification-bot)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=linux-kde-setup&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/linux-kde-setup)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Ethernaut-brownie-Solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Ethernaut-brownie-Solutions)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=PDF-Compressor&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/PDF-Compressor)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Wireless-Driver-Fixer&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Wireless-Driver-Fixer)
+
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=eJPT&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/eJPT)
