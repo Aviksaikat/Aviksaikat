@@ -135,7 +135,12 @@ Here are some ideas to get you started:
 
 ## <!-- activity graph -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aviksaikat)
+<!--
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aviksaikat) -->
+
+[![Aviksaikat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aviksaikat&custom_title=Aviksaikat's%20github%20activity%20graph&hide_border=true&theme=github)](https://github.com/aviksaikat/github-readme-activity-graph)
+
+---
 
 ## <!-- metrics -->
 
