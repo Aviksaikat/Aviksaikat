@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-karmakar-0ab183154/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](avik_shelby#8604)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@babayaga_the_boogy_man)
-![Profile views](https://gpvc.arturio.dev/aviksaikat)
+![Profile views](https://komarev.com/ghpvc/?username=Aviksaikat&color=dc143c)
 
 - 🔭 I’m currently working on Bug Bounties, Tryhackme, Hackthebox
 - 🌱 I’m currently learning Web App Pentesting, Smart Contracts Pentesting
@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 <!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aviksaikat) -->
 
-[![Aviksaikat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aviksaikat&custom_title=Aviksaikat's%20github%20activity%20graph&hide_border=true&theme=github)](https://github.com/aviksaikat/github-readme-activity-graph)
+[![Aviksaikat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aviksaikat&bg_color=2b2c40&color=ffffff&line=9e4c98&point=fd0808&area=true&hide_border=true)](https://github.com/aviksaikat/github-readme-activity-graph)
 
 ---
 
@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=VHS-Themes-preview&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/VHS-Themes-preview)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Youtube-Uploader-Bot&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Youtube-Uploader-Bot)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Discord-Notification-bot&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Discord-Notification-bot)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Ethernaut-brownie-Solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Ethernaut-brownie-Solutions)
+<!-- [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Ethernaut-brownie-Solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Ethernaut-brownie-Solutions) -->
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=eJPT&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/eJPT)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Quillctf-solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Quillctf-solutions)
 
