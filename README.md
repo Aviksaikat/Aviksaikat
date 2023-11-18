@@ -58,10 +58,14 @@ Here are some ideas to get you started:
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<a href="https://tryhackme.com/p/aviksaikat" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/aviksaikat.png" alt="TryHackMe" height=60 width=250/>
-<a href="https://www.hackthebox.com/profile/361208" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/361208" alt="Hackthebox" height=60 width=250/>
+<p align="center">
+  <a href="https://tryhackme.com/p/aviksaikat" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/aviksaikat.png" alt="TryHackMe" height=60 width=250/>
+  <a href="https://www.hackthebox.com/profile/361208" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/361208" alt="Hackthebox" height=60 width=250/>
+</p>
 
 ### Socials
+
+<div align="center">
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aviksaikat)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Aviksaikat)
@@ -162,6 +166,7 @@ Here are some ideas to get you started:
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Create-Tweet&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Create-Tweet)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Blockchain-CTF-Solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Blockchain-CTF-Solutions)
@@ -173,3 +178,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Quillctf-solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Quillctf-solutions)
 
 <!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Aviksaikat&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
+</div>
