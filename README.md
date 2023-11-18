@@ -5,7 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-karmakar-0ab183154/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](avik_shelby#8604)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@babayaga_the_boogy_man)
-![Profile views](https://komarev.com/ghpvc/?username=Aviksaikat&color=dc143c)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aviksaikat&color=dc143c&style=for-the-badge"
+</p>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 - 🔭 I’m currently working on Bug Bounties, Tryhackme, Hackthebox
 - 🌱 I’m currently learning Web App Pentesting, Smart Contracts Pentesting
@@ -29,7 +34,7 @@ Here are some ideas to get you started:
 
 <!-- [![user:9805823's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/9805823?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile) -->
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- ![Saikat"s GitHub stats](https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) -->
 
@@ -48,7 +53,7 @@ Here are some ideas to get you started:
 
 <!-- <script src="https://tryhackme.com/badge/132304"></script> -->
 
-#
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <a href="https://tryhackme.com/p/aviksaikat" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/aviksaikat.png" alt="TryHackMe" height=60 width=250/>
 <a href="https://www.hackthebox.com/profile/361208" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/361208" alt="Hackthebox" height=60 width=250/>
@@ -60,7 +65,7 @@ Here are some ideas to get you started:
 [![TryHackme](https://img.shields.io/badge/TryHackme-%232C3454.svg?style=for-the-badge&logo=TryHackme&logoColor=red)](https://tryhackme.com/p/aviksaikat)
 [![He](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/saikickkarma)
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### Languages And Technologies
 
@@ -86,7 +91,8 @@ Here are some ideas to get you started:
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
----
+<!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### Databases
 
@@ -94,7 +100,7 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### Operating Systems
 
@@ -106,13 +112,13 @@ Here are some ideas to get you started:
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### Hire me
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/aviksaikat)
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- Languages -->
 
@@ -126,7 +132,7 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviksaikat&hide=Smali,G-code,Roff,Tcl,ASP.NET&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- streak -->
 <!--
@@ -139,19 +145,19 @@ Here are some ideas to get you started:
 
 [![Aviksaikat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aviksaikat&bg_color=2b2c40&color=ffffff&line=9e4c98&point=fd0808&area=true&hide_border=true)](https://github.com/aviksaikat/github-readme-activity-graph)
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## <!-- metrics -->
 
 ![GitHub metrics](https://metrics.lecoq.io/aviksaikat)
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## <!-- trophies -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aviksaikat&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether)
 [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Create-Tweet&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Create-Tweet)
