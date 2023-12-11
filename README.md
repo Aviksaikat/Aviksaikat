@@ -179,3 +179,6 @@ Here are some ideas to get you started:
 
 <!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Aviksaikat&repo=github-readme-stats&&theme=cobalt) -->
 </div>
+
+
+<!-- [![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=f13890c2ca64cef0818e7bcec7ba53f7)](https://gist.github.com/aviksaikat/f13890c2ca64cef0818e7bcec7ba53f7/) -->
