@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/Aviksaikat">
-    <img  height="180em" width="49%" src="https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&line_height=21&theme=tokyonight&custom_title=Aviksaikat's%20Github%20Stats&count_private=true" alt="Aviksaikat" />
-    <img  height="180em" width="49%" src="https://streak-stats.demolab.com?user=Aviksaikat&theme=one-dark-pro&hide_border=true&mode=weekly" alt="Aviksaikat"/>
+    <img  height="180em" width="300%" src="https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&&show=discussions_started,prs_merged&line_height=21&theme=ocean_dark&rank_icon=github&custom_title=Aviksaikat's%20Github%20Stats&count_private=true" alt="Aviksaikat" />
+    <img  height="180em" width="66%" src="https://streak-stats.demolab.com?user=Aviksaikat&theme=calm_pink&hide_border=true&mode=weekly" alt="Aviksaikat"/>
     </a>
 </p>
 
@@ -168,16 +168,14 @@ Here are some ideas to get you started:
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<!-- Readme Cards -->
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=swarm-cid-py&show_owner=true&theme=cobalt)](https://github.com/Aviksaikat/swarm-cid-py)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Ape-Usage&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/Ape-Usage)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/capute-the-ether)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Blockchain-CTF-Solutions&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/Blockchain-CTF-Solutions)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=VHS-Themes-preview&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/VHS-Themes-preview)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=eJPT&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/eJPT)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Quillctf-solutions&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/Quillctf-solutions)
 
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/capute-the-ether)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Create-Tweet&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Create-Tweet)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Blockchain-CTF-Solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Blockchain-CTF-Solutions)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=VHS-Themes-preview&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/VHS-Themes-preview)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Youtube-Uploader-Bot&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Youtube-Uploader-Bot)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Discord-Notification-bot&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Discord-Notification-bot)
-<!-- [![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Ethernaut-brownie-Solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Ethernaut-brownie-Solutions) -->
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=eJPT&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/eJPT)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Quillctf-solutions&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Aviksaikat/Quillctf-solutions)
-
-<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Aviksaikat&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
+<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Aviksaikat&repo=github-readme-stats&&theme=cobalt) -->
 </div>
