@@ -170,16 +170,29 @@ Here are some ideas to get you started:
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!-- Readme Cards -->
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=swarm-cid-py&show_owner=true&theme=cobalt)](https://github.com/Aviksaikat/swarm-cid-py)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Ape-Usage&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/Ape-Usage)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=capute-the-ether&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/capute-the-ether)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Blockchain-CTF-Solutions&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/Blockchain-CTF-Solutions)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=VHS-Themes-preview&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/VHS-Themes-preview)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=eJPT&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/eJPT)
-[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Quillctf-solutions&show_owner=true&&theme=cobalt)](https://github.com/Aviksaikat/Quillctf-solutions)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Ape-Usage&show_owner=true&&theme=onedark)](https://github.com/Aviksaikat/Ape-Usage)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Just_Fetch&show_owner=true&&theme=onedark)](https://github.com/Aviksaikat/Just_Fetch)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=bmt-py&show_owner=true&theme=onedark)](https://github.com/Aviksaikat/bmt-py)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Ankvik-Tech-Labs&repo=mantaray-py&show_owner=true&theme=onedark)](https://github.com/Ankvik-Tech-Labs/mantaray-py)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=swarm-cid-py&show_owner=true&theme=onedark)](https://github.com/Aviksaikat/swarm-cid-py)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=cookiecutter-hatch-pypackage&show_owner=true&theme=onedark)](https://github.com/Aviksaikat/cookiecutter-hatch-pypackage)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Blockchain-CTF-Solutions&show_owner=true&&theme=onedark)](https://github.com/Aviksaikat/Blockchain-CTF-Solutions)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=httpRex&show_owner=true&&theme=onedark)](https://github.com/Aviksaikat/httpRex)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=eJPT&show_owner=true&&theme=onedark)](https://github.com/Aviksaikat/eJPT)
+[![Readme Card](https://github-readme-stats-aviksaikat.vercel.app/api/pin/?username=Aviksaikat&repo=Quillctf-solutions&show_owner=true&&theme=onedark)](https://github.com/Aviksaikat/Quillctf-solutions)
 
-<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Aviksaikat&repo=github-readme-stats&&theme=cobalt) -->
+<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Aviksaikat&repo=github-readme-stats&&theme=onedark) -->
 </div>
 
 
-<!-- [![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=f13890c2ca64cef0818e7bcec7ba53f7)](https://gist.github.com/aviksaikat/f13890c2ca64cef0818e7bcec7ba53f7/) -->
+## Gists
+
+[![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=ccec513aaf6b75846d51420f395fa07a&&theme=dracula)](https://gist.github.com/aviksaikat/ccec513aaf6b75846d51420f395fa07a/)
+[![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=9c2a35d1e844610adb8499c8aba79ab6&&theme=dracula)](https://gist.github.com/aviksaikat/9c2a35d1e844610adb8499c8aba79ab6/)
+[![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=a0906475e51dff00191496ba3872db29&&theme=dracula)](https://gist.github.com/aviksaikat/a0906475e51dff00191496ba3872db29/)
+[![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=cc69acb525695e44db340d64e9889f5e&&theme=dracula)](https://gist.github.com/aviksaikat/cc69acb525695e44db340d64e9889f5e/)
+[![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=fd5dfaef4c69e23116148b4b7c0377b6&&theme=dracula)](https://gist.github.com/aviksaikat/fd5dfaef4c69e23116148b4b7c0377b6/)
+[![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=fd22f2441172b8ce7e613e04a310b5e4&&theme=dracula)](https://gist.github.com/aviksaikat/fd22f2441172b8ce7e613e04a310b5e4/)
+[![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=f7467348211df815ac597e152ef30a5c&&theme=dracula)](https://gist.github.com/aviksaikat/f7467348211df815ac597e152ef30a5c/)
+[![Gist Card](https://github-readme-stats-aviksaikat.vercel.app/api/gist?id=d41c8f2b72859afc4e11def3709d9cad&&theme=dracula)](https://gist.github.com/aviksaikat/d41c8f2b72859afc4e11def3709d9cad/)
+
