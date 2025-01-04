@@ -63,6 +63,10 @@ Here are some ideas to get you started:
   <a href="https://www.hackthebox.com/profile/361208" target="blank"><img align="center" src="https://www.hackthebox.eu/badge/image/361208" alt="Hackthebox" height=60 width=250/>
 </p>
 
+<p align="center">
+  <a href="https://stackexchange.com/users/13592963"><img src="https://stackexchange.com/users/flair/13592963.png" width="208" height="58" alt="profile for Saikat Karmakar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Saikat Karmakar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</p>
+
 <div align="center">
 
 ### Socials
