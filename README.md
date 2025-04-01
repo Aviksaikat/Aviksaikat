@@ -253,8 +253,10 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/Aviksaikat">
-        <img height="180em" src="https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&&show=discussions_started,prs_merged&line_height=21&theme=ocean_dark&rank_icon=github&custom_title=Aviksaikat's%20Github%20Stats&count_private=true&hide_border=true" alt="Aviksaikat" />
-        <img height="180em" src="https://streak-stats.demolab.com?user=Aviksaikat&theme=ocean_dark&hide_border=true&mode=weekly" alt="Aviksaikat"/>
+        <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+            <img height="180em" src="https://github-readme-stats-aviksaikat.vercel.app/api?username=aviksaikat&show_icons=true&&show=discussions_started,prs_merged&line_height=21&theme=ocean_dark&rank_icon=github&custom_title=Aviksaikat's%20Github%20Stats&count_private=true&hide_border=true" alt="Aviksaikat" />
+            <img height="180em" src="https://streak-stats.demolab.com?user=Aviksaikat&theme=ocean_dark&hide_border=true&mode=weekly" alt="Aviksaikat"/>
+        </div>
     </a>
 </p>
 
@@ -263,6 +265,7 @@ Here are some ideas to get you started:
     <img height="200px" width="100%" align="center" src="https://github-readme-stats-aviksaikat.vercel.app/api/top-langs/?username=aviksaikat&layout=compact&hide=php,Smali,G-code,Roff,Tcl,ASP.NET,CSS,SCSS&langs_count=8&title_color=9b59b6&text_color=39FF14&icon_color=61dafb&bg_color=20232a&hide_border=true" />
   </a>
 </div>
+
 
 </br>
 
