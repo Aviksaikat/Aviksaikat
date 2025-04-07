@@ -56,41 +56,47 @@ Here are some ideas to get you started:
   <p align="center">
     <a href="https://t.me/kamab0k0_g0npachir0">
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=telegram&titles=true)"
+        src="https://go-skill-icons.vercel.app/api/icons?i=telegram&titles=true"
       />
     </a>
     <a href="@avik_saikat">
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true)"
+        src="https://go-skill-icons.vercel.app/api/icons?i=discord&titles=true"
       />
     </a>
     <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Aviksaikat">
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true)"
+        src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true"
       />
     </a>
     <a href="captain_levi.69">
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=signal&titles=true)"
+        src="https://go-skill-icons.vercel.app/api/icons?i=signal&titles=true"
       />
     </a>
     <a href="mailto:github.maturity983@passinbox.com">
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=proton&titles=true)"
+        src="https://go-skill-icons.vercel.app/api/icons?i=proton&titles=true"
       />
     </a>
     <a href="@avik_saikat#1812">
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=revolt&titles=true)"
+        src="https://go-skill-icons.vercel.app/api/icons?i=revolt&titles=true"
       />
     </a>
     <a href="https://www.linkedin.com/in/saikat-karmakar-0ab183154/">
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)"
+        src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true"
       />
     </a>
-    <a href="@aviksaikat:matrix.org" target="blank">
-    <img src="https://play-lh.googleusercontent.com/HqV9a2bInuolQ9kr2FrcSEd2ffaSSwXce8kJOq7x_dbUsEXNPV8YfhF-rSRIkDXfYQ=w240-h480-rw" height=50 width=50/>
+    <!-- <a href="@aviksaikat:matrix.org" target="blank">
+      <img src="https://play-lh.googleusercontent.com/HqV9a2bInuolQ9kr2FrcSEd2ffaSSwXce8kJOq7x_dbUsEXNPV8YfhF-rSRIkDXfYQ=w240-h480-rw" height=50 width=50/>
+    </a> -->
+        <a href="@aviksaikat:matrix.org">
+      <img
+        src="https://go-skill-icons.vercel.app/api/icons?i=element&titles=true"
+      />
+    </a>
   </p>
 
 
@@ -202,12 +208,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,debian,ubuntu,manjaro,arch,apple,windows,popos,nixos&t=dark&perline=9">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kali,debian,ubuntu,manjaro,arch,apple,windows,popos,nixos,tailsos,fedora,qubesos&t=dark&perline=6">
     </br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" width="50" 
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" width="50" 
      height="50">
      <img src="https://static-00.iconduck.com/assets.00/distributor-logo-tails-icon-2048x2048-xotkvpic.png" width="50" 
-     height="50">
+     height="50"> -->
   </a>
 </p>
 
@@ -215,7 +221,13 @@ Here are some ideas to get you started:
 
 ### 💼 Hire me
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/aviksaikat)
+<!-- [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://www.fiverr.com/aviksaikat) -->
+
+<a href="https://www.fiverr.com/aviksaikat">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=fiverr&titles=true"
+    />
+</a>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
