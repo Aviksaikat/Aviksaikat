@@ -145,12 +145,20 @@ Here are some ideas to get you started:
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-### 💻 Languages And Technologies
+### ⛓️ Blockchains
+#### Chains
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=python,rust,bash,c,solidity,markdown,go,latex,java,javascript,html,css,docker,tor,graphql,fortran,kubernetes,powershell,vagrant" /> -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,bash,c,solidity,markdown,go,latex,php,java,javascript,html,css,cpp,linux,docker,tor,graphql,fortran,kubernetes,powershell,vagrant,solana,openzeppelin,aws,azure,gcp,googlecolab,git,discordbots,grafana,json,rocket,perl,s3,hardhat,ngrok,nginx,ganache,davinci&t=dark&perline=10">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ethereum,solana&t=dark&perline=10">
+  </a>
+</p>
+
+### Protocols And Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aave,uniswap,sushiswap,pancakeswap,balancer,apeworx,foundry&t=dark&perline=10">
   </a>
 </p>
 
@@ -177,6 +185,18 @@ Here are some ideas to get you started:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) -->
 
 <!-- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
+### 💻 Languages And Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- <img src="https://skillicons.dev/icons?i=python,rust,bash,c,solidity,markdown,go,latex,java,javascript,html,css,docker,tor,graphql,fortran,kubernetes,powershell,vagrant" /> -->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,bash,c,solidity,markdown,go,latex,php,java,javascript,html,css,cpp,linux,docker,tor,graphql,fortran,kubernetes,powershell,vagrant,solana,openzeppelin,aws,azure,gcp,googlecolab,git,discordbots,grafana,json,rocket,perl,s3,hardhat,ngrok,nginx,ganache,davinci&t=dark&perline=10">
+  </a>
+</p>
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🗄️ Databases
