@@ -92,9 +92,19 @@ Here are some ideas to get you started:
     <!-- <a href="@aviksaikat:matrix.org" target="blank">
       <img src="https://play-lh.googleusercontent.com/HqV9a2bInuolQ9kr2FrcSEd2ffaSSwXce8kJOq7x_dbUsEXNPV8YfhF-rSRIkDXfYQ=w240-h480-rw" height=50 width=50/>
     </a> -->
-        <a href="@aviksaikat:matrix.org">
+    <a href="@aviksaikat:matrix.org">
       <img
         src="https://go-skill-icons.vercel.app/api/icons?i=element&titles=true"
+      />
+    </a>
+    <a href="https://bsky.app/profile/aviksaikat.bsky.social">
+      <img
+        src="https://go-skill-icons.vercel.app/api/icons?i=bluesky&titles=true"
+      />
+    </a>
+    <a href="https://mastodon.social/@captain_levi">
+      <img
+        src="https://go-skill-icons.vercel.app/api/icons?i=mastodon&titles=true"
       />
     </a>
   </p>
