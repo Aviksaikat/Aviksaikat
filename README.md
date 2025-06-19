@@ -158,7 +158,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aave,uniswap,sushiswap,pancakeswap,balancer,apeworx,foundry&t=dark&perline=10">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aave,uniswap,sushiswap,pancakeswap,balancer,chainlink,apeworx,foundry&t=dark&perline=10">
   </a>
 </p>
 
